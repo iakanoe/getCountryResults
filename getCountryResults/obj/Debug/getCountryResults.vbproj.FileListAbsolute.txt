@@ -1,0 +1,10 @@
+c:\users\ianick\desktop\getCountryResults\getCountryResults\bin\Debug\getCountryResults.exe.config
+c:\users\ianick\desktop\getCountryResults\getCountryResults\bin\Debug\getCountryResults.exe
+c:\users\ianick\desktop\getCountryResults\getCountryResults\bin\Debug\getCountryResults.pdb
+c:\users\ianick\desktop\getCountryResults\getCountryResults\bin\Debug\getCountryResults.xml
+c:\users\ianick\desktop\getCountryResults\getCountryResults\obj\Debug\getCountryResults.vbprojResolveAssemblyReference.cache
+c:\users\ianick\desktop\getCountryResults\getCountryResults\obj\Debug\getCountryResults.Resources.resources
+c:\users\ianick\desktop\getCountryResults\getCountryResults\obj\Debug\getCountryResults.vbproj.GenerateResource.Cache
+c:\users\ianick\desktop\getCountryResults\getCountryResults\obj\Debug\getCountryResults.exe
+c:\users\ianick\desktop\getCountryResults\getCountryResults\obj\Debug\getCountryResults.xml
+c:\users\ianick\desktop\getCountryResults\getCountryResults\obj\Debug\getCountryResults.pdb
